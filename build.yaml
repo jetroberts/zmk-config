@@ -4,9 +4,9 @@
 # control, add individual board + shield combinations to
 # the `include` property, e.g:
 #
-board: [ "nice_nano_v2" ]
-shield: [ "ergotype_left", "ergotype_right" ]
- include:
-   - board: nice_nano_v2
-     shield: ergotype
+include:
+  - board: nice_nano_v2
+    shield: ergotype_right
+  - board: nice_nano_v2
+    shield: ergotype_left
 
