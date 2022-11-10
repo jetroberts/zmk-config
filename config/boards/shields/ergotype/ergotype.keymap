@@ -38,7 +38,7 @@
                 &kp TAB    &kp SQT  &kp UP   &none     &none     &none                                 &none     &none     &none     &kp MINUS  &kp EQUAL &kp BSPC
                 &kp LSHIFT &kp LEFT &kp DOWN &kp RIGHT &none     &none                                 &none     &none     &none     &kp LBKT   &kp RBKT  &kp ENTER
                 &kp LCTRL  &kp BSLH &none    &none     &none     &none                                 &none     &none     &none     &kp AT     &kp FSLH  &kp RSHIFT
-                                                       &mo UPPER &kp SPACE &mo LOWER      &kp LG(code) &kp SPACE &kp LALT
+                                                       &mo UPPER &kp SPACE &mo LOWER      &kp LCMD &kp SPACE &kp LALT
             >;
         }
     };
