@@ -40,6 +40,6 @@
                 &kp LCTRL  &kp BSLH &none    &none     &none     &none                                 &none     &none     &none     &kp AT     &kp FSLH  &kp RSHIFT
                                                        &mo UPPER &kp SPACE &mo LOWER      &kp LCMD &kp SPACE &kp LALT
             >;
-        }
+        };
     };
 };
